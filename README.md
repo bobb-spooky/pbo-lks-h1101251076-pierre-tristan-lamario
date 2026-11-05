@@ -1,2 +1,15 @@
-# pbo-lks-h1101251076-pierre-tristan-lamario
-Portofolio Praktikum Pemrograman Berorientasi Objek
+# PBO LKS — Portofolio Praktikum
+
+- Nama : Pierre Tristan LamaRio
+- NIM : H1101251076
+- Kelas : B
+
+## Daftar Pertemuan
+
+- [ ] Pertemuan 1 — Setup & Database
+- [ ] Pertemuan 2 — Core OOP
+- [ ] Pertemuan 3 — Framework & Routing
+- [ ] Pertemuan 4 — Testing Backend
+- [ ] Pertemuan 5 — CRUD Kategori
+- [ ] Pertemuan 6 — Frontend
+- [ ] Pertemuan 7 — Integrasi & Finalisasi
