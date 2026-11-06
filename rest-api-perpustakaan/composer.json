@@ -1,0 +1,15 @@
+
+{
+    "name": "pierre/perpustakaan-api",
+    "description": "REST API Sistem Perpustakaan",
+    "type": "project",
+    "require": {
+        "php": "^8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\Core\\": "Core/",
+            "App\\": "src/"
+        }
+    }
+}
